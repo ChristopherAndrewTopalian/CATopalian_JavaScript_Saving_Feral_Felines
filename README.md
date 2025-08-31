@@ -1,5 +1,5 @@
 # CATopalian JavaScript Saving Feral Felines
-Let's Help Save Feral Felines with JavaScript. This JS app displays videos from an array of objects in an orderly column with video data included.  The videos contain audio of Cat language. We use the Cat language audio to help rescuse feral felines.  
+Let's Help Save Feral Felines with JavaScript. This JS app displays videos from an array of objects in an orderly column with video data included.  The videos contain audio of Cat language. We use the Cat language audio to help rescue feral felines.  
 
 ---
 
